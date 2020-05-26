@@ -1,5 +1,8 @@
 _repo: The-Book-of-the-Thousand-Nights-and-a-NightVolume-04-Supplement_62140
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62140-h/images/cover.jpg
 creator:
   author:
     agent_name: Burton, Richard Francis, Sir
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/898
     wikipedia: https://en.wikipedia.org/wiki/Richard_Francis_Burton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62140#The-Book-of-the-Thousand-Nights-and-a-NightVolume-04-Supplement
 gutenberg_issued: '2020-05-16'
 gutenberg_type: Text
 identifiers:
